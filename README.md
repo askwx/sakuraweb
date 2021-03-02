@@ -1,1 +1,1 @@
-# sakuraweb
+# Japanese pottery web site "sakura"
